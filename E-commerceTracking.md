@@ -83,4 +83,4 @@ _paq.push([ function() { visitor_id = this.getVisitorId(); }]);
 ```
 
 ## Vizualization
-![](images/BehaveeIntegrationComponents-E-commerce.jpg)
+![ComponentArchitecture](images/BehaveeIntegrationComponents-E-commerce.jpg)
