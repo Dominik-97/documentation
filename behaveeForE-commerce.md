@@ -9,5 +9,5 @@ Picture below depicts what components need to be integrated.
 
 
 
-![ComponentArchitecture](BehaveeIntegrationComponents-E-commerce.jpg)
+![ComponentArchitecture](images/BehaveeIntegrationComponents-E-commerce.jpg)
 
