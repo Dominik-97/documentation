@@ -81,3 +81,6 @@ _paq.push(['setEcommerceView',
 var visitor_id;
 _paq.push([ function() { visitor_id = this.getVisitorId(); }]);
 ```
+
+## Vizualization
+![](images/BehaveeIntegrationComponents-E-commerce.jpg)
